@@ -57,8 +57,11 @@ nav {
 
 #section-one {
     text-align: center;
-    color: #193d49;
 }
+
+#section-one img {}
+
+#section-one .wrap img {}
 
 #section-one nav a {
     font-family: 'oswald';
