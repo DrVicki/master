@@ -1,0 +1,19 @@
+header {
+    background: black;
+}
+
+.logo img {
+    width: 100px;
+    float: left;
+}
+
+nav {
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+    pad: ;
+}
+
+#navigation {
+    float: right;
+}

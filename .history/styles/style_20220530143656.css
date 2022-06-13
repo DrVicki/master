@@ -1,0 +1,27 @@
+ h1 {
+     font-size: 40px;
+     color: purple;
+     font-family: 'Source Code Pro', monospace;
+     border-bottom: 5px solid rgb(98, 74, 14);
+ }
+ 
+ h2 {
+     font-family: 'Source Code Pro', monospace;
+     color: rgb(98, 74, 14);
+ }
+ 
+ h3 {
+     font-family: 'Source Code Pro', monospace;
+ }
+ 
+ p {
+     font-family: 'Fira Code', monospace;
+ }
+ 
+ li {
+     font-family: 'Fira Code', monospace;
+ }
+ 
+ a {
+     font-family: 'Fira Code', monospace;
+ }

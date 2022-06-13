@@ -1,0 +1,16 @@
+header {
+    background: black;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+.nav-button-bg {
+    background-color: rgb(255, 255, 255);
+}
+
+.logo {}

@@ -1,0 +1,17 @@
+header {
+    background: black;
+}
+
+.logo img {
+    width: 100px;
+}
+
+nav {
+    max-width: 1200px;
+    margin: 0 auto;
+    float: r;
+}
+
+.logo {
+    float: left;
+}

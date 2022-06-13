@@ -1,0 +1,55 @@
+    body {
+        background-color: rgb(255, 255, 255);
+    }
+    
+    .nav-button-bg {
+        background-color: rgb(255, 255, 255);
+    }
+    
+    .logo {
+        background-color: #d4ae4f;
+        width: 100%;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        padding-left: 10px;
+        border-bottom: 10 #4b3808;
+    }
+    
+    h1 {
+        font-size: 40px;
+        font-family: 'Source Code Pro', monospace;
+        border-bottom: 5px solid #d4ae4f;
+    }
+    
+    h2 {
+        font-family: 'Source Code Pro', monospace;
+    }
+    
+    h3 {
+        font-family: 'Source Code Pro', monospace;
+    }
+    
+    p {
+        font-family: 'Fira Code', monospace;
+    }
+    
+    li {
+        font-family: 'Fira Code', monospace;
+    }
+    
+    a {
+        font-family: 'Fira Code', monospace;
+    }
+    
+    .heading-two-gold {
+        color: #d4ae4f;
+    }
+    
+    .heading-three-darkgold {
+        color: #4b3808;
+    }
+    
+    #heading-one-purple {
+        color: purple;
+        background-color: rgb(223, 216, 197);
+    }

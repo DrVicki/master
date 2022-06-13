@@ -1,0 +1,35 @@
+header {
+    background: black;
+}
+
+.logo img {
+    width: 200px;
+}
+
+.logo {
+    float: left;
+}
+
+nav {
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: auto;
+    pad: 20px;
+}
+
+#navigation {
+    float: right;
+    margin-top: 18px;
+}
+
+#navigation a {
+    font-family: 'oswald';
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 24px;
+}
+
+#navigation a:hover {
+    color: ;
+}
